@@ -1,0 +1,23 @@
+html {
+    background-color: wheat;
+    width: 480px;
+}
+fieldset {
+    border: solid 2px blue;
+}
+#Datos {
+    background-color: coral;
+}
+
+#Titulo {
+    color: deeppink;
+}
+
+.ModoBlack {
+    background-color: black;
+    color: white;
+}
+
+#Aspectos {
+    background-color: salmon;
+}
